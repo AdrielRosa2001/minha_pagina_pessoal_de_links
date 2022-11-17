@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.gif)
 
-> Adriel Rosa
+> Adriel Rosa (update: 17/11/2022 - 10:40 AM)
 
 Minha pagina web pessoal de links e redirecionamentos.
 
